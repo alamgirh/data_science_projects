@@ -6,4 +6,4 @@ In this project, I explored covid19 data (death and vaccination metrices). I cre
 
 ### 2. Covid19 global data dashboard using Tableau
 
-In this project, I extract data as excel files from PostgreSQL using SQL queries. Import these excel files in Tableau for creating a dashboard.  
+In this project, I extracted data as CSV files from PostgreSQL using SQL queries. Next, I imported these CSV files into Tableau for creating a dashboard.
